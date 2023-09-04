@@ -32,7 +32,7 @@ npm install
 
 ### 4.Start the development server:
 npm run dev
-Open your web browser and navigate to [http://localhost:3000](http://localhost:5173/) to view the blog layout.
+Open your web browser and navigate to http://localhost:5173 to view the blog layout.
 Scroll down to see the "Load More" button, which will fetch and display additional blog posts from the GNews API.
 
 
