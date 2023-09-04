@@ -3,7 +3,7 @@
 This project aims to create a responsive blog layout using React, Tailwind CSS, Tailwind CSS components, and the GNews API for fetching and displaying news articles. In addition to the basic layout, it includes a "Load More" functionality to fetch and display additional blog posts as the user scrolls down the page.
 
 ## Table of Contents
-1.Demo
+*1.Demo*
 2.Prerequisites
 3.Installation
 4.Technologies Used
