@@ -37,9 +37,9 @@ Scroll down to see the "Load More" button, which will fetch and display addition
 
 
 ## Technologies Used
-### React: A JavaScript library for building user interfaces.
-### Tailwind CSS: A utility-first CSS framework for designing responsive and beautiful web applications.
-### GNews API: An API for fetching news articles from various sources.
+##### React: A JavaScript library for building user interfaces.
+##### Tailwind CSS: A utility-first CSS framework for designing responsive and beautiful web applications.
+##### GNews API: An API for fetching news articles from various sources.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
