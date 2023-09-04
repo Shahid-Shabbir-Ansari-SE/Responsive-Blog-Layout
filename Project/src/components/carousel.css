@@ -1,0 +1,7 @@
+@media (max-width: 640px) {
+    .main1{
+        height: 500px !important;
+        border-radius: 0px !important;
+    }
+}
+

@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: tee_franklin;
+    src: url(fonts/Tee\ Franklin\ Bold.ttf);
+}
+
+@font-face {
+    font-family: urania;
+    src: url(fonts/Urania-Regular.otf);
+}
