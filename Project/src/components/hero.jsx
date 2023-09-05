@@ -1,10 +1,10 @@
 import React from "react";
-import "./carousel.css";
+import "./hero.css";
 
 const carousel = () => {
   return (
     <div className="lg:px-5 sm:p-0">
-      <img className="main1 lg: h-full w-full object-cover rounded-3xl" src="Public/main1.jpg" alt="" />
+      <img className="main1 lg: h-full w-full object-cover rounded-3xl" src="Public/main1.png" alt="" />
     </div>
   );
 };
