@@ -3,7 +3,7 @@
 This project aims to create a responsive blog layout using React, Tailwind CSS, Tailwind CSS components, and the GNews API for fetching and displaying news articles. In addition to the basic layout, it includes a "Load More" functionality to fetch and display additional blog posts as the user scrolls down the page.
 
 ## Demo
-You can check out a live demo of this project here {https://responsivebloglayout.netlify.app/}
+You can check out a live demo of this project here : https://responsivebloglayout.netlify.app/
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
